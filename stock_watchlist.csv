@@ -1,0 +1,15 @@
+Ticker,Yahoo_URL,Lo_thresh,Hi_thresh
+CSU.TO,https://ca.finance.yahoo.com/quote/CSU.TO?p=CSU.TO,1495,1550
+SU.TO,https://ca.finance.yahoo.com/quote/SU.TO?p=SU.TO,0,22
+ENGH.TO,https://ca.finance.yahoo.com/quote/ENGH.TO?p=ENGH.TO,70,78
+AQN.TO,https://ca.finance.yahoo.com/quote/AQN.TO?p=AQN.TO,18.05,20
+RNW.TO,https://ca.finance.yahoo.com/quote/RNW.TO?p=RNW.TO,15.7,999999
+BIP-UN.TO,https://ca.finance.yahoo.com/quote/BIP-UN.TO?p=BIP-UN.TO,58,999999
+WCN.TO,https://ca.finance.yahoo.com/quote/WCN.TO?p=WCN.TO&.tsrc=fin-srch,131,999999
+POW.TO,https://ca.finance.yahoo.com/quote/POW.TO?p=POW.TO,25.6,28
+CDAY.TO,https://ca.finance.yahoo.com/quote/CDAY.TO?p=CDAY.TO,95,115
+AC.TO,https://ca.finance.yahoo.com/quote/AC.TO?p=AC.TO,15.4,16.3
+KXS.TO,https://ca.finance.yahoo.com/quote/KXS.TO?p=KXS.TO,182,999999
+SHOP.TO,https://ca.finance.yahoo.com/quote/SHOP.TO?p=SHOP.TO,1300,999999
+CJT.TO,https://ca.finance.yahoo.com/quote/CJT.TO?p=CJT.TO,165,999999
+LSPD.TO,https://ca.finance.yahoo.com/quote/LSPD.TO?p=LSPD.TO,40.4,999999
